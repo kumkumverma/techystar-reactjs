@@ -31,6 +31,4 @@ npm start
       
    <img src= "https://github.com/kumkumverma/techystar-reactjs/blob/main/snaps/002.png" alt= "Footerimg">
    
-### Sidebar
-      
-   <img src= "https://github.com/kumkumverma/chakra-ui-react-app/blob/main/snaps/003.png" alt= "sidebar img">
+
