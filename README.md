@@ -20,7 +20,7 @@ npm start
 
 ### Services
   
-  <img src= "https://github.com/kumkumverma/chakra-ui-react-app/blob/main/snaps/005.png" alt= "services img">
+  <img src= "https://github.com/kumkumverma/techystar-reactjs/blob/main/snaps/002.png" alt= "services img">
 
 ### Login Page
     
