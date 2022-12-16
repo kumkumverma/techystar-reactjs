@@ -29,7 +29,7 @@ npm start
 
 ### Footer
       
-   <img src= "https://github.com/kumkumverma/chakra-ui-react-app/blob/main/snaps/002.png" alt= "Footerimg">
+   <img src= "https://github.com/kumkumverma/techystar-reactjs/blob/main/snaps/002.png" alt= "Footerimg">
    
 ### Sidebar
       
