@@ -1,4 +1,4 @@
-# CHAKRA_UI_REACT_APP
+# TECHYSTAR_REACT_APP
 In this project, we are going to create react application using chakra ui and framer motion
 
 #### To Run this project Clone it and install modules using
@@ -16,7 +16,7 @@ npm start
 
 ### Homepage
 
-  <img src= "https://github.com/kumkumverma/chakra-ui-react-app/blob/main/snaps/004.png" alt= "homepage img">
+  <img src= "https://github.com/kumkumverma/techystar-reactjs/blob/main/snaps/003.png" alt= "homepage img">
 
 ### Services
   
