@@ -20,11 +20,11 @@ npm start
 
 ### Services
   
-  <img src= "https://github.com/kumkumverma/techystar-reactjs/blob/main/snaps/005.png" alt= "services img">
+  <img src= "https://github.com/kumkumverma/techystar-reactjs/blob/main/snaps/007.png" alt= "services img">
 
-### Login Page
+### Services Page
     
-   <img src= "https://github.com/kumkumverma/techystar-reactjs/blob/main/snaps/006.png" alt= "login page img">
+   <img src= "https://github.com/kumkumverma/techystar-reactjs/blob/main/snaps/008.png" alt= "services page img">
     
 
 ### Footer
